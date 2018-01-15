@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 BOnjour Lyon
+=======
+BOnjour Lyon
+hello world
+>>>>>>> master
