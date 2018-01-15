@@ -9,7 +9,6 @@ hello world
 Coucou maitre
 Coucou maitre
 
-<<<<<<< refs/remotes/origin/master
 Modif Klervi
 Coucou maitre
 
@@ -22,12 +21,3 @@ Coucou maitre
 Modif Klervi
 BOnjour Lyon
 Modif Klervi
-=======
-
-Coucou maitre
-
-Modif Klervi
-BOnjour Lyon
-Modif Klervi
-modif Christophe
->>>>>>> dev
